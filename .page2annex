@@ -1,0 +1,87 @@
+{
+  "incoming": {
+    "audio/Chapter 1 Brain Basics.mp3": {
+      "url": "http://socofneur.http.internapcdn.net/socofneur/BrainFacts%20videos/audio%20book/Chapter%201%20Brain%20Basics.mp3"
+    },
+    "audio/Chapter 10 Childhood Disorders.mp3": {
+      "url": "http://socofneur.http.internapcdn.net/socofneur/BrainFacts%20videos/audio%20book/Chapter%2010%20Childhood%20Disorders.mp3"
+    },
+    "audio/Chapter 11 Addiction.mp3": {
+      "url": "http://socofneur.http.internapcdn.net/socofneur/BrainFacts%20videos/audio%20book/Chapter%2011%20Addiction.mp3"
+    },
+    "audio/Chapter 12 Degenerative Disorders.mp3": {
+      "url": "http://socofneur.http.internapcdn.net/socofneur/BrainFacts%20videos/audio%20book/Chapter%2012%20Degenerative%20Disorders.mp3"
+    },
+    "audio/Chapter 13 Psychiatric Disorders.mp3": {
+      "url": "http://socofneur.http.internapcdn.net/socofneur/BrainFacts%20videos/audio%20book/Chapter%2013%20Psychiatric%20Disorders.mp3"
+    },
+    "audio/Chapter 14 Injury and Illness.mp3": {
+      "url": "http://socofneur.http.internapcdn.net/socofneur/BrainFacts%20videos/audio%20book/Chapter%2014%20Injury%20and%20Illness.mp3"
+    },
+    "audio/Chapter 15 Potential Therapies.mp3": {
+      "url": "http://socofneur.http.internapcdn.net/socofneur/BrainFacts%20videos/audio%20book/Chapter%2015%20Potential%20Therapies.mp3"
+    },
+    "audio/Chapter 16 Neuroethics .mp3": {
+      "url": "http://socofneur.http.internapcdn.net/socofneur/BrainFacts%20videos/audio%20book/Chapter%2016%20Neuroethics%20.mp3"
+    },
+    "audio/Chapter 2 The Developing Brain.mp3": {
+      "url": "http://socofneur.http.internapcdn.net/socofneur/BrainFacts%20videos/audio%20book/Chapter%202%20The%20Developing%20Brain.mp3"
+    },
+    "audio/Chapter 3 Senses and Perception.mp3": {
+      "url": "http://socofneur.http.internapcdn.net/socofneur/BrainFacts%20videos/audio%20book/Chapter%203%20Senses%20and%20Perception.mp3"
+    },
+    "audio/Chapter 4 Learning Memory and Language.mp3": {
+      "url": "http://socofneur.http.internapcdn.net/socofneur/BrainFacts%20videos/audio%20book/Chapter%204%20Learning%20Memory%20and%20Language.mp3"
+    },
+    "audio/Chapter 5 Movement.mp3": {
+      "url": "http://socofneur.http.internapcdn.net/socofneur/BrainFacts%20videos/audio%20book/Chapter%205%20Movement.mp3"
+    },
+    "audio/Chapter 6 Sleep.mp3": {
+      "url": "http://socofneur.http.internapcdn.net/socofneur/BrainFacts%20videos/audio%20book/Chapter%206%20Sleep.mp3"
+    },
+    "audio/Chapter 7 Stress.mp3": {
+      "url": "http://socofneur.http.internapcdn.net/socofneur/BrainFacts%20videos/audio%20book/Chapter%207%20Stress.mp3"
+    },
+    "audio/Chapter 8 Aging .mp3": {
+      "url": "http://socofneur.http.internapcdn.net/socofneur/BrainFacts%20videos/audio%20book/Chapter%208%20Aging%20.mp3"
+    },
+    "audio/Chapter 9 Kinds of Research.mp3": {
+      "url": "http://socofneur.http.internapcdn.net/socofneur/BrainFacts%20videos/audio%20book/Chapter%209%20Kinds%20of%20Research.mp3"
+    },
+    "audio/Introduction.mp3": {
+      "url": "http://socofneur.http.internapcdn.net/socofneur/BrainFacts%20videos/audio%20book/Introduction.mp3"
+    },
+    "visual/Brain Facts book.ashx": {
+      "url": "http://www.brainfacts.org/%7E/media/Brainfacts/Article%20Multimedia/About%20Neuroscience/Brain%20Facts%20book.ashx"
+    },
+    "visual/Brain_Facts EPUB.ashx": {
+      "url": "http://www.brainfacts.org/%7E/media/Brainfacts/Article%20Multimedia/About%20Neuroscience/Brain_Facts%20EPUB.ashx"
+    },
+    "visual/Brain_Facts MOBI.ashx": {
+      "url": "http://www.brainfacts.org/%7E/media/Brainfacts/Article%20Multimedia/About%20Neuroscience/Brain_Facts%20MOBI.ashx"
+    }
+  },
+  "public_incoming": {
+    "audio/Chapter 1 Brain Basics.mp3": "audio/Chapter 1 Brain Basics.mp3",
+    "audio/Chapter 10 Childhood Disorders.mp3": "audio/Chapter 10 Childhood Disorders.mp3",
+    "audio/Chapter 11 Addiction.mp3": "audio/Chapter 11 Addiction.mp3",
+    "audio/Chapter 12 Degenerative Disorders.mp3": "audio/Chapter 12 Degenerative Disorders.mp3",
+    "audio/Chapter 13 Psychiatric Disorders.mp3": "audio/Chapter 13 Psychiatric Disorders.mp3",
+    "audio/Chapter 14 Injury and Illness.mp3": "audio/Chapter 14 Injury and Illness.mp3",
+    "audio/Chapter 15 Potential Therapies.mp3": "audio/Chapter 15 Potential Therapies.mp3",
+    "audio/Chapter 16 Neuroethics .mp3": "audio/Chapter 16 Neuroethics .mp3",
+    "audio/Chapter 2 The Developing Brain.mp3": "audio/Chapter 2 The Developing Brain.mp3",
+    "audio/Chapter 3 Senses and Perception.mp3": "audio/Chapter 3 Senses and Perception.mp3",
+    "audio/Chapter 4 Learning Memory and Language.mp3": "audio/Chapter 4 Learning Memory and Language.mp3",
+    "audio/Chapter 5 Movement.mp3": "audio/Chapter 5 Movement.mp3",
+    "audio/Chapter 6 Sleep.mp3": "audio/Chapter 6 Sleep.mp3",
+    "audio/Chapter 7 Stress.mp3": "audio/Chapter 7 Stress.mp3",
+    "audio/Chapter 8 Aging .mp3": "audio/Chapter 8 Aging .mp3",
+    "audio/Chapter 9 Kinds of Research.mp3": "audio/Chapter 9 Kinds of Research.mp3",
+    "audio/Introduction.mp3": "audio/Introduction.mp3",
+    "visual/Brain Facts book.ashx": "visual/Brain Facts book.ashx",
+    "visual/Brain_Facts EPUB.ashx": "visual/Brain_Facts EPUB.ashx",
+    "visual/Brain_Facts MOBI.ashx": "visual/Brain_Facts MOBI.ashx"
+  },
+  "version": "0.0.2"
+}
